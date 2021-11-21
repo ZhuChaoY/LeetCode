@@ -1,2 +1,2 @@
 # LeetCode
-My leetcode solution by Python3. (https://leetcode-cn.com/problemset/all/)
+My [leetcode](https://leetcode-cn.com/problemset/all/) solution by Python3.   
